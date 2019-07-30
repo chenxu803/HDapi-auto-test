@@ -1,0 +1,10 @@
+inserthouse=http://IP:port/scp-mdmapp/house/insertHouse
+deletehouse=http://IP:port/scp-mdmapp/house/deleteHouse
+batchdeletehouse=http://IP:port/scp-mdmapp/house/batchdeleteHouse
+gethouse=http://IP:port/scp-mdmapp/house/getHouse
+updatehouse=http://IP:port/scp-mdmapp/house/updateHouse
+
+
+[weather]
+
+
