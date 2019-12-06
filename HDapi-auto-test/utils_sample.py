@@ -1,25 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Time    : 2018/1/11 17:03
-# @Author  : lizhipeng
-# @Email   : lizhipeng@luojilab.com
-# @File    : util.py
-# @Software: PyCharm Community Edition
-
-
-
-import os
-import sys
-import platform
-
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-print(BASE_DIR)
-
-# -*- coding: utf-8 -*-
-# @Time    : 2018/1/11 17:03
-# @Author  : lizhipeng
-# @Email   : lizhipeng@luojilab.com
-# @File    : util.py
-# @Software: PyCharm Community Edition
 
 import os
 import sys
